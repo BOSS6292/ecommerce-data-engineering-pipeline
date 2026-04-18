@@ -127,12 +127,6 @@ CSV → Parquet → Databricks (Bronze → Silver) → Archive
 
 ---
 
-## 📸 Dashboard Preview
-
-![Dashboard](images/dashboard.png)
-
----
-
 ## 📁 Power BI File
 
 Download dashboard:
