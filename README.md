@@ -137,7 +137,7 @@ CSV → Parquet → Databricks (Bronze → Silver) → Archive
 
 Download dashboard:
 
-👉 [ecommerce_dashboard.pbix](ecommerce_dashboard.pbix)
+👉 [ecommerce_dashboard.pbix](https://github.com/BOSS6292/ecommerce-data-engineering-pipeline/blob/main/images/Power%20BI.pdf)
 
 ---
 
