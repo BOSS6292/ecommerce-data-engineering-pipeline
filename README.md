@@ -178,16 +178,6 @@ GROUP BY Country;
 
 ---
 
-## 📈 Future Improvements
-
-- Switch from `overwrite` → `append` (incremental loads)  
-- Add orchestration using Airflow  
-- Build real-time streaming pipeline  
-- Add data quality checks  
-- Integrate CI/CD  
-
----
-
 ## 🎯 Why This Project Stands Out
 
 ✔ End-to-end pipeline (ingestion → transformation → analytics)  
