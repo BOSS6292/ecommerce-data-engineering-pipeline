@@ -27,6 +27,9 @@ Databricks SQL
         ↓
 Power BI Dashboard
 ```
+## Architecture
+
+<img width="738" height="552" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/a2b509e6-c0d5-45e8-98fa-997f02b7fe6d" />
 
 ---
 
